@@ -40,7 +40,7 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: #7C5CBF;
+    background: #DC143C;
     border: none;
     color: white;
     font-size: 16px;
@@ -48,12 +48,12 @@ button {
 }
 
 button:hover {
-    background: #6b47b8;
+    background: #8B0000;
 }
 
 button:disabled {
     cursor: default;
-    background: #7c5cbf94;
+    background: #333333;
 }
 
 /* Join Page Styles */
